@@ -24,7 +24,7 @@ Redmibook Air 13.3 10210Y 2.5K屏 黑苹果EFI  OC0.75 Menterey 12.0.1
 
 2、CPU睿频正常
 
-3、声卡外放正常（如进入windows后不能外放，请关机重启）
+3、声卡外放正常Layout ID 66（如进入windows后不能外放，请关机重启）
 
 4、触摸板手势正常。
 
