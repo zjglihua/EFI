@@ -10,7 +10,7 @@ Wifi:Intel AX200
 
 蓝牙:intel
 
-触控板：ELAN 230B
+触控板:ELAN 230B
 
 声卡:Realtek ALC 256
 
