@@ -18,7 +18,7 @@ Wifi:Intel AX200
 
 
 
-Redmibook Air 13.3 10210Y 2.5K屏 黑苹果EFI
+Redmibook Air 13.3 10210Y 2.5K屏 黑苹果EFI  OC0.75 Menterey 12.0.1
 
 1、核显驱动正常
 
